@@ -10,6 +10,7 @@ config.TypeYaml
 ```
 
 Also the library has next types of errors:
+
 ```go
 ErrDataNull       = errors.New("bytes must not be a null")
 ErrDataEmpty      = errors.New("bytes must not be an empty slice")
