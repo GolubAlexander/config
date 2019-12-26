@@ -8,7 +8,6 @@ This library supports next types:
 config.TypeJson
 config.TypeYaml
 ```
-
 Also the library has next types of errors:
 
 ```go
